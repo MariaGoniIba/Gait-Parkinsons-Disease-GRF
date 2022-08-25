@@ -47,7 +47,7 @@ A walk number of 01 refers to a usual, normal walk. This is the task we will be 
 The flowchart below shows the followed procedure along with the scripts names.
 
 <p align="center">
-  <img src="https://github.com/MariaGoniIba/Gait-Parkinsons-Disease-GRF/blob/master/flowchart.png"
+  <img src="https://github.com/MariaGoniIba/Gait-Parkinsons-Disease-GRF/blob/main/flowchart.png"
 </p>
 
 ## RESULTS
