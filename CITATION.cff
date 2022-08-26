@@ -1,0 +1,17 @@
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+
+cff-version: 1.2.0
+title: >-
+  Gait in Parkinson's Disease using Ground Reaction
+  Forces
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: María
+    name-particle: Goñi Ibaceta
+    orcid: 'https://orcid.org/0000-0001-7897-2537'
+    email: margonibaceta@gmail.com
+date-released: 2022-08-24
+repository-code: https://github.com/MariaGoniIba/Gait-Parkinsons-Disease-GRF
