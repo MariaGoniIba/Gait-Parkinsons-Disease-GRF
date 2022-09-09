@@ -78,9 +78,9 @@ Below there is a list with the 10 features with the hightest predictor importanc
 | 10 | Stance ratio | Coefficient of variation | 2nd | right |
   
 ## PAPERS
-* [Dual tasking, gait rhythmicity, and Parkinson's disease: which aspects of gait are attention demanding?](https://pubmed.ncbi.nlm.nih.gov/16176368/))
-* [Rhythmic auditory stimulation modulates gait variability in Parkinson's disease](https://pubmed.ncbi.nlm.nih.gov/17953624/))
-* [Treadmill walking as an external pacemaker to improve gait rhythm and stability in Parkinson's disease](https://pubmed.ncbi.nlm.nih.gov/15929090/))
-* [PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals](https://physionet.org/content/gaitpdb/1.0.0/))
+* [Dual tasking, gait rhythmicity, and Parkinson's disease: which aspects of gait are attention demanding?](https://pubmed.ncbi.nlm.nih.gov/16176368/)
+* [Rhythmic auditory stimulation modulates gait variability in Parkinson's disease](https://pubmed.ncbi.nlm.nih.gov/17953624/)
+* [Treadmill walking as an external pacemaker to improve gait rhythm and stability in Parkinson's disease](https://pubmed.ncbi.nlm.nih.gov/15929090/)
+* [PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals](https://physionet.org/content/gaitpdb/1.0.0/)
 
 
